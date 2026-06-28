@@ -7,7 +7,7 @@ Análise exploratória das 48 seleções classificadas para a Copa do Mundo 2026
 - Download e carregamento do dataset via KaggleHub
 - Tradução de todas as colunas para português
 - Tratamento de dados — nulos, duplicatas, tipos e consistência
-- Análise Exploratória (EDA) com 5 perguntas de negócio
+- Análise Exploratória (EDA) com 5 perguntas
 - Visualizações com Matplotlib e Seaborn
 
 ## 💡 Insights principais
